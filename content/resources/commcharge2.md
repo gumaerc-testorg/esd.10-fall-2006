@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information about electronic medical records committee.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-10-introduction-to-technology-and-policy-fall-2006/e90a5d482284982094343c354c2109eb_commcharge2.pdf
+file: /media/courses/esd-10-introduction-to-technology-and-policy-fall-2006/e90a5d482284982094343c354c2109eb_commcharge2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: commcharge2.pdf
 uid: e90a5d48-2284-9820-9434-3c354c2109eb

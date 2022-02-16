@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-10-introduction-to-technology-and-policy-fall-2006/a87760732aa1b0e437d4b2f34549ad05_esd-10f06-th.jpg
+file: /media/courses/esd-10-introduction-to-technology-and-policy-fall-2006/a87760732aa1b0e437d4b2f34549ad05_esd-10f06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A 2006 [NASA study](http://www.nasa.gov/vision/earth/environment/world_warmth.html)
@@ -12,6 +12,8 @@ image_metadata:
     [NASA](http://www.nasa.gov/).)
   credit: ''
   image-alt: Graph showing steady rise in temperature from 1900-2000.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: esd-10f06-th.jpg
 uid: a8776073-2aa1-b0e4-37d4-b2f34549ad05

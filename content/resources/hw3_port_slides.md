@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slide presentation related to the Wedge Game assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-10-introduction-to-technology-and-policy-fall-2006/d03e1b124b0a26cc64247f24d722cad0_hw3_port_slides.pdf
+file: /media/courses/esd-10-introduction-to-technology-and-policy-fall-2006/d03e1b124b0a26cc64247f24d722cad0_hw3_port_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw3_port_slides.pdf
 uid: d03e1b12-4b0a-26cc-6424-7f24d722cad0

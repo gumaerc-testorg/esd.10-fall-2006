@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Evaluation form.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-10-introduction-to-technology-and-policy-fall-2006/e83b3af17c0d2a8086d4333d483de32f_final_eval.pdf
+file: /media/courses/esd-10-introduction-to-technology-and-policy-fall-2006/e83b3af17c0d2a8086d4333d483de32f_final_eval.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: final_eval.pdf
 uid: e83b3af1-7c0d-2a80-86d4-333d483de32f
