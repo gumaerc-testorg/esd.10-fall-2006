@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 90227438-8529-4726-5b16-ba5d4e9d244b
 resourcetype: Document
 title: commcharge1.pdf
 uid: 864dc541-9eeb-ad08-8d13-955b9c3fad51

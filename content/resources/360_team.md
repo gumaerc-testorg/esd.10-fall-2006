@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 90227438-8529-4726-5b16-ba5d4e9d244b
 resourcetype: Document
 title: 360_team.pdf
 uid: cc2a6640-fbb1-68d9-e8fa-926bbbef59c8

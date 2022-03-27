@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 876febae-b0f5-622b-f526-57b8dfd9c41e
 resourcetype: Document
 title: lec2_911_pr.pdf
 uid: d4d0a638-8ffc-9ae7-193b-8c3833efad77

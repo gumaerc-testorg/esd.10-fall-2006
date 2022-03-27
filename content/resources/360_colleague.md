@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 90227438-8529-4726-5b16-ba5d4e9d244b
 resourcetype: Document
 title: 360_colleague.pdf
 uid: 71410027-0745-108c-5090-b03a23e67501

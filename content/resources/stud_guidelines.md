@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: ca5f65ff-d057-0991-9ce3-84d8cbde9fd3
 resourcetype: Document
 title: stud_guidelines.pdf
 uid: cd97cb54-fef3-911b-fff6-434c9a2944ce

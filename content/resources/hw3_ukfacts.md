@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 58c0e0a2-82f0-0a2d-7236-185a8f38d443
 resourcetype: Document
 title: hw3_ukfacts.pdf
 uid: d8a3879d-7af7-acc7-6a5a-96a0c9120354

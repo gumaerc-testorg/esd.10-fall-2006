@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 876febae-b0f5-622b-f526-57b8dfd9c41e
 resourcetype: Document
 title: heywood_testmony.pdf
 uid: fd4e603b-b391-ff28-14ae-f517944faf04
