@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course summary, coursework, grading criteria and
+  course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -76,7 +78,7 @@ There is one required text for this course:
 
 Stone, Deborah. _Policy Paradox: The Art of Political Decision Making_. New York, NY: W.W. Norton, 2001. ISBN: 0393976254.
 
-Other readings are listed on the [readings]({{< baseurl >}}/pages/readings) page.
+Other readings are listed on the {{% resource_link 876febae-b0f5-622b-f526-57b8dfd9c41e "readings" %}} page.
 
 Calendar
 --------

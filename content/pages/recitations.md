@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains student guideline file to participate in recitations,
+  several assignment files along with readings.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Recitations
 uid: ca5f65ff-d057-0991-9ce3-84d8cbde9fd3
 ---
 
-Student Guidelines for Participation in Recitations ([PDF]({{< baseurl >}}/resources/stud_guidelines))
+Student Guidelines for Participation in Recitations ({{% resource_link cd97cb54-fef3-911b-fff6-434c9a2944ce "PDF" %}})
 
 Several recitation readings are from Stone, Deborah. _Policy Paradox: The Art of Political Decision Making_. New York, NY: W.W. Norton, 2001. ISBN: 0393976254.
 
@@ -32,14 +34,14 @@ READINGS
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-September 11th Victim's Compensation Fund Case Study ([PDF]({{< baseurl >}}/resources/assign1))
+September 11th Victim's Compensation Fund Case Study ({{% resource_link a5441c72-2b7b-321c-1a50-2b9ed24e360b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Stone, Deborah. "Equity," and "Efficiency." Chapters 2 and 3 in _Policy Paradox_.
 
-Press releases: "September 11th Compensation Fund Regulations Announced," and "Spitzer Criticizes DOJ Regulations on September 11th Victim Compensation Fund." ([PDF]({{< baseurl >}}/resources/lec2_911_pr-1))
+Press releases: "September 11th Compensation Fund Regulations Announced," and "Spitzer Criticizes DOJ Regulations on September 11th Victim Compensation Fund." ({{% resource_link c59a5ed9-9883-bfbc-f009-642e3b0645e6 "PDF" %}})
 
 Hadfield, Gillian K. "[The September 11th Victim Compensation Fund: 'An Unprecedented Experiment in American Democracy](http://law.bepress.com/usclwps/lss/art3/).'" University of Southern California. University of Southern California Legal Studies Working Paper Series. Working Paper 3, May 2005. (Focus on sections I-III.)
 
@@ -56,7 +58,7 @@ Hadfield, Gillian K. "[The September 11th Victim Compensation Fund: 'An Unpreced
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion of Stone Through the News: Equity and Efficiency ([PDF]({{< baseurl >}}/resources/assign2))
+Discussion of Stone Through the News: Equity and Efficiency ({{% resource_link 21966f9d-5b7d-6f96-89e5-7254098c109d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -76,7 +78,7 @@ Pollack, Andrew. "In Drug Research, Some Guinea Pigs Are Now Human." _New York T
 R3
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion of Stone Through the News: Security and Liberty ([PDF]({{< baseurl >}}/resources/assign3))
+Discussion of Stone Through the News: Security and Liberty ({{% resource_link 33f3e18e-7a45-9929-d3e2-4b5696f19efb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -98,7 +100,7 @@ Tibbetts, Janice. "High court to weigh security certificates: Civil liberties at
 R4
 {{< tdclose >}}
 {{< tdopen >}}
-Case Study- London Congestion Pricing ([PDF]({{< baseurl >}}/resources/assign4))
+Case Study- London Congestion Pricing ({{% resource_link 0dfa0883-6fb1-daf2-f4bc-23b54bb5300c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -118,7 +120,7 @@ Gomez-Ibanez, Jose. "[Congestion Charging in London (A): The Western Extension](
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion of Homework 5 - KIDSNET Case Study ([PDF]({{< baseurl >}}/resources/assign5))
+Discussion of Homework 5 - KIDSNET Case Study ({{% resource_link 3a44f9fc-5e7d-deae-050f-683a71458a8f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Schlefer, Jonathan. "[The KIDSNET Story: Can a Medical-Information System Improve Public Health?](http://www.thecasesolutions.com/the-kidsnet-story-can-a-medical-information-system-improve-public-health-9330)" Harvard University Kennedy School of Government, Case Study 1800.0.
@@ -130,7 +132,7 @@ Schlefer, Jonathan. "[The KIDSNET Story: Can a Medical-Information System Improv
 R6
 {{< tdclose >}}
 {{< tdopen >}}
-Understanding Systems Thinking ([PDF]({{< baseurl >}}/resources/assign6))
+Understanding Systems Thinking ({{% resource_link 8bb699b0-431e-f25a-d03c-5b7ff52540db "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
