@@ -5,6 +5,7 @@ file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/a5441c722b
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assign1.pdf
 uid: a5441c72-2b7b-321c-1a50-2b9ed24e360b
 ---
 Recitation assignment.
-

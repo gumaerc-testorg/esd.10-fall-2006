@@ -13,10 +13,10 @@ image_metadata:
   credit: ''
   image-alt: Graph showing steady rise in temperature from 1900-2000.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-10f06-th.jpg
 uid: a8776073-2aa1-b0e4-37d4-b2f34549ad05
 ---
 New image Upload
-

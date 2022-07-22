@@ -5,6 +5,7 @@ file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/e83b3af17c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_eval.pdf
 uid: e83b3af1-7c0d-2a80-86d4-333d483de32f
 ---
 Evaluation form.
-

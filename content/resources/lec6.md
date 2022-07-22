@@ -6,6 +6,7 @@ file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/8338624ef0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 8338624e-f0d6-ed01-1d64-72a207059fe4
 ---
 This resource contains information about various class projects update which includes Teams, Project Organization, and NRC Reports.
-

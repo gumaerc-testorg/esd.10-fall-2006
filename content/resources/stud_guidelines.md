@@ -5,6 +5,7 @@ file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/cd97cb54fe
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stud_guidelines.pdf
 uid: cd97cb54-fef3-911b-fff6-434c9a2944ce
 ---
 Recitation assignment.
-

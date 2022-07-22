@@ -5,6 +5,7 @@ file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/6689b5fa51
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec4.pdf
 uid: 6689b5fa-5140-9f42-0cd0-9d8fcb5b8a63
 ---
 Lecture presentation.
-

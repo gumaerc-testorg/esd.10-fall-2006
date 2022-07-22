@@ -6,6 +6,7 @@ file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/864dc5419e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: commcharge1.pdf
 uid: 864dc541-9eeb-ad08-8d13-955b9c3fad51
 ---
 This resource contains information about privacy concerns in corporate and government data mining.
-
