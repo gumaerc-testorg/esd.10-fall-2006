@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/caaa8cef98aa4382caaf97e7d6c82c6f_lec19.pdf
+file_size: 161626
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

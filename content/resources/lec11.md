@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on engineering systems development
   at MIT technology and the civil sector.
 file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/10bdd1522fa2f9446c8515637c20c1e5_lec11.pdf
+file_size: 95095
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

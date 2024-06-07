@@ -2,6 +2,7 @@
 content_type: resource
 description: Project team evaluation form.
 file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/cc2a6640fbb168d9e8fa926bbbef59c8_360_team.pdf
+file_size: 27706
 file_type: application/pdf
 learning_resource_types:
 - Projects
