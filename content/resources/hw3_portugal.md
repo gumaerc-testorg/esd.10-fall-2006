@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout related to the Wedge Game assignment.
 file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/abc6066ef4057da7acf602ef6d2cac9c_hw3_portugal.pdf
+file_size: 279694
 file_type: application/pdf
 learning_resource_types:
 - Assignments

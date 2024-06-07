@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses about the technology and policy analysis.
 file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/b0c37c3e7ab10d552c8608d7d7718d24_lec17.pdf
+file_size: 187027
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
