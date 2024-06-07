@@ -2,6 +2,7 @@
 content_type: resource
 description: Course reading.
 file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/b5a6c97b0f7d3efd1e3dc116c5674c3b_challenger.pdf
+file_size: 596823
 file_type: application/pdf
 learning_resource_types:
 - Readings
