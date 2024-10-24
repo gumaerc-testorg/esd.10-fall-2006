@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about national innovation systems.
-file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/0381286a28ab26b7e6306dec36a82a27_hw4.pdf
+file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/0381286a28ab26b7e6306dec36a82a27_hw4.pdf
 file_size: 24594
 file_type: application/pdf
 learning_resource_types:
