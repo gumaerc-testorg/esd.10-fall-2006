@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions based on the concept of equity and efficiency
   issues and equity matrix for the questions.
-file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/921d4230ded087b50b4a70c0ca3688ea_hw1_soln.pdf
+file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/921d4230ded087b50b4a70c0ca3688ea_hw1_soln.pdf
 file_size: 22146
 file_type: application/pdf
 learning_resource_types:
