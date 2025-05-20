@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/6689b5fa51409f420cd09d8fcb5b8a63_lec4.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/6689b5fa51409f420cd09d8fcb5b8a63_lec4.pdf
 file_size: 16943
 file_type: application/pdf
 learning_resource_types:

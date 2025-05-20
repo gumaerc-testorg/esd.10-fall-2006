@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project team evaluation form.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/714100270745108c5090b03a23e67501_360_colleague.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/714100270745108c5090b03a23e67501_360_colleague.pdf
 file_size: 26757
 file_type: application/pdf
 learning_resource_types:

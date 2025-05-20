@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about privacy concerns in corporate
   and government data mining.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/864dc5419eebad088d13955b9c3fad51_commcharge1.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/864dc5419eebad088d13955b9c3fad51_commcharge1.pdf
 file_size: 11318
 file_type: application/pdf
 learning_resource_types:

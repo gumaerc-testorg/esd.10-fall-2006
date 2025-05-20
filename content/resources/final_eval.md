@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Evaluation form.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/e83b3af17c0d2a8086d4333d483de32f_final_eval.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/e83b3af17c0d2a8086d4333d483de32f_final_eval.pdf
 file_size: 12598
 file_type: application/pdf
 learning_resource_types:

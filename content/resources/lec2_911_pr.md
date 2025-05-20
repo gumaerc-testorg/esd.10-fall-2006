@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about september 11th compensation
   fund regulations.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/d4d0a6388ffc9ae7193b8c3833efad77_lec2_911_pr.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/d4d0a6388ffc9ae7193b8c3833efad77_lec2_911_pr.pdf
 file_size: 39170
 file_type: application/pdf
 learning_resource_types:

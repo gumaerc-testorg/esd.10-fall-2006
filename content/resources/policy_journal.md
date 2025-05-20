@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains description of assignment, sugeestions for designing
   policy principles and example of a good principle.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/86e1952bdcdabbb0d2c2c563fe11c6ab_policy_journal.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/86e1952bdcdabbb0d2c2c563fe11c6ab_policy_journal.pdf
 file_size: 14289
 file_type: application/pdf
 learning_resource_types:

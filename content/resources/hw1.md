@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an assignment based on the concept of equity and
   efficiency issues.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/189d6dc97dee40b760d4b39fa360f039_hw1.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/189d6dc97dee40b760d4b39fa360f039_hw1.pdf
 file_size: 18765
 file_type: application/pdf
 learning_resource_types:
