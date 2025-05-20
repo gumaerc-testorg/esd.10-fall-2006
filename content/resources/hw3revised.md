@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the pre-game instructions for the assignment.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/3cb73238419f56d1f46dae303432597a_hw3revised.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/3cb73238419f56d1f46dae303432597a_hw3revised.pdf
 file_size: 40813
 file_type: application/pdf
 learning_resource_types:

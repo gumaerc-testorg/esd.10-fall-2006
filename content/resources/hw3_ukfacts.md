@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about wedge game example uk fact sheet.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/d8a3879d7af7acc76a5a96a0c9120354_hw3_ukfacts.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/d8a3879d7af7acc76a5a96a0c9120354_hw3_ukfacts.pdf
 file_size: 176218
 file_type: application/pdf
 learning_resource_types:

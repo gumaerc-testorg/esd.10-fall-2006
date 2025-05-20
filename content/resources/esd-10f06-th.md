@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/a87760732aa1b0e437d4b2f34549ad05_esd-10f06-th.jpg
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/a87760732aa1b0e437d4b2f34549ad05_esd-10f06-th.jpg
 file_size: 11501
 file_type: image/jpeg
 image_metadata:

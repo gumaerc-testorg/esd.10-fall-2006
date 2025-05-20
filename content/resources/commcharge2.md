@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about electronic medical records committee.
-file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/e90a5d482284982094343c354c2109eb_commcharge2.pdf
+file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/e90a5d482284982094343c354c2109eb_commcharge2.pdf
 file_size: 9984
 file_type: application/pdf
 learning_resource_types:
