@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation assignment.
-file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/21966f9d5b7d6f9689e57254098c109d_assign2.pdf
+file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/21966f9d5b7d6f9689e57254098c109d_assign2.pdf
 file_size: 12780
 file_type: application/pdf
 learning_resource_types:
