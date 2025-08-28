@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource describes the objectives, preparation, assignment, guidelines
   for good policy memo and grading for policy memo.
-file: /courses/esd-10-introduction-to-technology-and-policy-fall-2006/f4cb0c83c4d0ec0764574036d4ed893f_hw2.pdf
+file: /ol-ocw-studio-app/courses/esd-10-introduction-to-technology-and-policy-fall-2006/f4cb0c83c4d0ec0764574036d4ed893f_hw2.pdf
 file_size: 32558
 file_type: application/pdf
 learning_resource_types:
