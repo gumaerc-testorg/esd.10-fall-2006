@@ -43,11 +43,11 @@ Stone, Deborah. "Equity," and "Efficiency." Chapters 2 and 3 in _Policy Paradox_
 
 Press releases: "September 11th Compensation Fund Regulations Announced," and "Spitzer Criticizes DOJ Regulations on September 11th Victim Compensation Fund." ({{% resource_link c59a5ed9-9883-bfbc-f009-642e3b0645e6 "PDF" %}})
 
-Hadfield, Gillian K. "[The September 11th Victim Compensation Fund: 'An Unprecedented Experiment in American Democracy](http://law.bepress.com/usclwps/lss/art3/).'" University of Southern California. University of Southern California Legal Studies Working Paper Series. Working Paper 3, May 2005. (Focus on sections I-III.)
+Hadfield, Gillian K. "{{% resource_link "3815eaba-8f03-4fab-b575-32288922c5cd" "The September 11th Victim Compensation Fund: 'An Unprecedented Experiment in American Democracy" %}}.'" University of Southern California. University of Southern California Legal Studies Working Paper Series. Working Paper 3, May 2005. (Focus on sections I-III.)
 
 ### Background Web site
 
-[Voices of September 11th](http://voicesofsept11.org/)
+{{% resource_link "9e984036-8f97-4b98-9d94-964702205d22" "Voices of September 11th" %}}
 
 
 {{< tdclose >}}
@@ -107,9 +107,9 @@ Case Study- London Congestion Pricing ({{% resource_link 0dfa0883-6fb1-daf2-f4bc
 
 Stone, Deborah. _Policy Paradox_. Chapters 6-15.
 
-Gomez-Ibanez, Jose. "[Congestion Charging in London (A): The Western Extension](https://cb.hbsp.harvard.edu/cbmp/product/HKS310-PDF-ENG)." Harvard University Kennedy School of Government. Case Study 1787.0, February 1, 2005.
+Gomez-Ibanez, Jose. "{{% resource_link "70751f49-efe2-4ec6-90de-beee5ca96247" "Congestion Charging in London (A): The Western Extension" %}}." Harvard University Kennedy School of Government. Case Study 1787.0, February 1, 2005.
 
-———. "[Congestion Charging in London (B): The Economics of Congestion Tolls](http://case.hks.harvard.edu/congestion-charging-in-london-the-economics-of-congestion-tolls-b/)." Part B Harvard University Kennedy School of Government. Case Study 1788.0, February 1, 2005.
+———. "{{% resource_link "1f43943d-c42e-4c81-8eac-b5b81c35a289" "Congestion Charging in London (B): The Economics of Congestion Tolls" %}}." Part B Harvard University Kennedy School of Government. Case Study 1788.0, February 1, 2005.
 
 
 {{< tdclose >}}
@@ -123,7 +123,7 @@ R5
 Discussion of Homework 5 - KIDSNET Case Study ({{% resource_link 3a44f9fc-5e7d-deae-050f-683a71458a8f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Schlefer, Jonathan. "[The KIDSNET Story: Can a Medical-Information System Improve Public Health?](http://www.thecasesolutions.com/the-kidsnet-story-can-a-medical-information-system-improve-public-health-9330)" Harvard University Kennedy School of Government, Case Study 1800.0.
+Schlefer, Jonathan. "{{% resource_link "c124467a-6670-4f6f-b84c-8248d983cbad" "The KIDSNET Story: Can a Medical-Information System Improve Public Health?" %}}" Harvard University Kennedy School of Government, Case Study 1800.0.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,11 +137,11 @@ Understanding Systems Thinking ({{% resource_link 8bb699b0-431e-f25a-d03c-5b7ff5
 {{< tdopen >}}
 
 
-Roos, Dan "Engineering Systems at MIT - The Development of The Engineering Systems Division." MIT Engineering Systems Monograph, 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/monograph/history.pdf))
+Roos, Dan "Engineering Systems at MIT - The Development of The Engineering Systems Division." MIT Engineering Systems Monograph, 2004. ({{% resource_link "e62af6cd-1e8a-45ef-9620-c91882988084" "PDF" %}})
 
-Hastings, Daniel. "The Future of Engineering Systems: Development of Engineering Leaders." MIT Engineering Systems Monograph, 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/monograph/future.pdf))
+Hastings, Daniel. "The Future of Engineering Systems: Development of Engineering Leaders." MIT Engineering Systems Monograph, 2004. ({{% resource_link "75a1088a-d385-4106-a750-78d9d9455df4" "PDF" %}})
 
-Moses, Joel "Foundational Issues in Engineering Systems." MIT Engineering Systems Monograph, 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/monograph/framing.pdf))
+Moses, Joel "Foundational Issues in Engineering Systems." MIT Engineering Systems Monograph, 2004. ({{% resource_link "809bc961-3dfe-4366-9960-058b43f0a938" "PDF" %}})
 
 
 {{< tdclose >}}

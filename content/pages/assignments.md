@@ -103,7 +103,7 @@ Nelson, Richard, ed. _National Innovation Systems_. New York, NY: Oxford Univers
 Policy Memo 2: KIDSNET ({{% resource_link bffdd9f7-b8da-dfda-8b7c-e9dfb08aa400 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Schlefer, Jonathan. "[The KIDSNET Story: Can a Medical-Information System Improve Public Health?](http://www.thecasesolutions.com/the-kidsnet-story-can-a-medical-information-system-improve-public-health-9330)" Harvard University Kennedy School of Government, Case Study 1800.0.
+Schlefer, Jonathan. "{{% resource_link "c124467a-6670-4f6f-b84c-8248d983cbad" "The KIDSNET Story: Can a Medical-Information System Improve Public Health?" %}}" Harvard University Kennedy School of Government, Case Study 1800.0.
 {{< tdclose >}}
 
 {{< trclose >}}
