@@ -67,7 +67,7 @@ Stone, Deborah. _Policy Paradox: The Art of Political Decision Making_. New York
 
 Press releases: "September 11th Compensation Fund Regulations Announced," and "Spitzer Criticizes DOJ Regulations on September 11th Victim Compensation Fund." ({{% resource_link d4d0a638-8ffc-9ae7-193b-8c3833efad77 "PDF" %}})
 
-Hadfield, Gillian K. "{{% resource_link "8fe61070-ee76-41e0-b6e1-199dbeb3fa99" "The September 11th Victim Compensation Fund: 'An Unprecedented Experiment in American Democracy'" %}}." University of Southern California. University of Southern California Legal Studies Working Paper Series. Working Paper 3, May 2005. (Focus on sections I-III.)
+Hadfield, Gillian K. "[The September 11th Victim Compensation Fund: 'An Unprecedented Experiment in American Democracy'](https://mylaw2.usc.edu/centers/class/class-workshops/usc-legal-studies-working-papers/documents/05_7_paper.pdf)." University of Southern California. University of Southern California Legal Studies Working Paper Series. Working Paper 3, May 2005. (Focus on sections I-III.)
 
 
 {{< tdclose >}}
@@ -232,7 +232,7 @@ Dupree, A. Hunter. _Science and the Federal Government_. Introduction and chapte
 
 Brooks, Harvey. "The Evolution of U.S. Science Policy." In _Technology, R&D, and the Economy_. Edited by B. Smith and C. Barfield. Washington, DC: Brookings Institution, 1995. ISBN: 0815779852.
 
-Bush, Vannevar. "{{% resource_link "fcfdc312-8e7b-499b-a66c-b18f513eb7dc" "Science--The Endless Frontier" %}}." Report to President Franklin D. Roosevelt, July 1945.
+Bush, Vannevar. "[Science--The Endless Frontier](https://www.nsf.gov/about/history/vbush1945.htm)." Report to President Franklin D. Roosevelt, July 1945.
 
 
 {{< tdclose >}}
@@ -266,7 +266,7 @@ Prof. Weigel
 {{< tdopen >}}
 
 
-Computer Science and Telecommunications Board (CSTB), National Research Council. "{{% resource_link "e1c1bb6c-996d-4d2e-b8ae-9601607a55be" "The Organization of Federal Support, A Historical Review" %}}." Chapter 4 in _Funding a Revolution: Government Support for Computing Research_. Washington, DC: National Academies Press, 1999. ISBN: 0309062780.
+Computer Science and Telecommunications Board (CSTB), National Research Council. "[The Organization of Federal Support, A Historical Review](http://www.nap.edu/openbook.php?record_id=6323&page=85)." Chapter 4 in _Funding a Revolution: Government Support for Computing Research_. Washington, DC: National Academies Press, 1999. ISBN: 0309062780.
 
 Nelson, Richard, ed. _National Innovation Systems_. New York, NY: Oxford University Press, 1993. ISBN: 0195076176.
 
@@ -333,11 +333,11 @@ Hughes, Thomas P. _Networks of Power: Electrification in Western Society, 1880-1
 
 ### Optional
 
-{{% resource_link "26c53940-a472-4163-bffc-009a5fd4a1f6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jardini, D. R. "Out of the Blue Yonder: The Transfer of Systems Thinking from the Pentagon to the Great Society, 1961-1965." In {{% resource_link "26c53940-a472-4163-bffc-009a5fd4a1f6" "_Systems, Experts, and Computers: The Systems Approach in Management and Engineering, World War II and After_" %}}. Edited by A. C. Hughes and T. P. Hughes. Cambridge, MA: MIT Press, 2000. ISBN: 0262082853.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/systems-experts-and-computers) Jardini, D. R. "Out of the Blue Yonder: The Transfer of Systems Thinking from the Pentagon to the Great Society, 1961-1965." In [_Systems, Experts, and Computers: The Systems Approach in Management and Engineering, World War II and After_](https://mitpress.mit.edu/books/systems-experts-and-computers). Edited by A. C. Hughes and T. P. Hughes. Cambridge, MA: MIT Press, 2000. ISBN: 0262082853.
 
 Hughes, Thomas P. _Rescuing Prometheus_. New York, NY: Knopf, 2000, chapter 6. ISBN: 0679739386.
 
-Rhodes, Donna, and Daniel Hastings. "The Case for Evolving Systems Engineering as a Field within Engineering Systems." Paper presented at MIT Engineering Systems Symposium, March 2004. ({{% resource_link "fef472f2-86ac-4b3c-a0d4-247f6ab8d096" "PDF" %}})
+Rhodes, Donna, and Daniel Hastings. "The Case for Evolving Systems Engineering as a Field within Engineering Systems." Paper presented at MIT Engineering Systems Symposium, March 2004. ([PDF](http://esd.mit.edu/symposium/pdfs/papers/rhodes.pdf))
 
 
 {{< tdclose >}}
@@ -436,7 +436,7 @@ Globalization Impacts: Supply Chains
 Guest - Prof. Yoshi Sheffi
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "afa8feed-7b82-4286-89db-7995e1445005" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sheffi, Yoshi. {{% resource_link "afa8feed-7b82-4286-89db-7995e1445005" "_The Resilient Enterprise_" %}}. Cambridge, MA: MIT Press, 2005, chapters 1-5. ISBN: 0262195372.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/resilient-enterprise) Sheffi, Yoshi. [_The Resilient Enterprise_](https://mitpress.mit.edu/books/resilient-enterprise). Cambridge, MA: MIT Press, 2005, chapters 1-5. ISBN: 0262195372.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -491,11 +491,11 @@ Prof. Weigel
 
 Heywood, J. B. Testimony presented at U.S. House of Representatives' Science Committee, Subcommittees on Energy and Research joint hearing on "Fueling the Future: On the Road to the Hydrogen Economy," Wednesday, July 20, 2005. ({{% resource_link fd4e603b-b391-ff28-14ae-f517944faf04 "PDF" %}})
 
-Heywood, J. B., and Malcolm A. Weiss. "New Vehicle Technologies: How Soon Can They Make a Difference?" MIT Laboratory for Energy and the Environment, March 2005. ({{% resource_link "7f74b08b-db84-4e0e-9023-5402fcd12ef8" "PDF" %}})
+Heywood, J. B., and Malcolm A. Weiss. "New Vehicle Technologies: How Soon Can They Make a Difference?" MIT Laboratory for Energy and the Environment, March 2005. ([PDF](http://web.mit.edu/newsoffice/2005/fuel-new-tech.pdf))
 
-———. "A Multipronged Approach to Curbing Gasoline Use." MIT Laboratory for Energy and the Environment, June 2004. ({{% resource_link "58cb5fc9-071f-4b19-8880-e1fae1808366" "PDF" %}})
+———. "A Multipronged Approach to Curbing Gasoline Use." MIT Laboratory for Energy and the Environment, June 2004. ([PDF](http://web.mit.edu/sloan-auto-lab/research/beforeh2/files/fuel-multipronged.pdf))
 
-Weiss, Malcom A., and Andreas Schafer. "Vehicles and Fuels for 2020: Assessing the Hydrogen Fuel-Cell Vehicle." MIT Laboratory for Energy and the Environment, March 2003. ({{% resource_link "87cf20ec-9f47-4b06-8600-ffdf3dda53cf" "PDF" %}})
+Weiss, Malcom A., and Andreas Schafer. "Vehicles and Fuels for 2020: Assessing the Hydrogen Fuel-Cell Vehicle." MIT Laboratory for Energy and the Environment, March 2003. ([PDF](http://web.archive.org/web/20080726030009/http://web.mit.edu/newsoffice/2005/fuel-2020.pdf))
 
 
 {{< tdclose >}}
@@ -516,11 +516,11 @@ Guest - Bob Skinner
 
 Lecture Slides ({{% resource_link caaa8cef-98aa-4382-caaf-97e7d6c82c6f "PDF" %}})
 
-Transportation Research Board. "Future Flight: A Review of the Small Aircraft Transportation System Concept." TRB Special Report 263, 2002. ({{% resource_link "2f679d6e-0760-4b83-ac66-f9e1e1c592cd" "PDF - 2.6 MB" %}})
+Transportation Research Board. "Future Flight: A Review of the Small Aircraft Transportation System Concept." TRB Special Report 263, 2002. ([PDF - 2.6 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr263.pdf))
 
-———. "Does the Built Environment Influence Physical Activity? Examining the Evidence." TRB Special Report 282, 2005. ({{% resource_link "9b90a2fb-fd3c-4f36-93b2-d095788eb0d0" "PDF - 1.5 MB" %}})
+———. "Does the Built Environment Influence Physical Activity? Examining the Evidence." TRB Special Report 282, 2005. ([PDF - 1.5 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr282.pdf))
 
-———. The Fuel Tax and Alternatives for Transportation Funding. TRB Special Report 285, 2006. ({{% resource_link "c172220c-b0fc-4a4d-870e-b4fc633af2a9" "PDF - 1.1 MB" %}})
+———. The Fuel Tax and Alternatives for Transportation Funding. TRB Special Report 285, 2006. ([PDF - 1.1 MB](http://onlinepubs.trb.org/onlinepubs/sr/sr285.pdf))
 
 Students should read the executive summaries of each of the TRB reports and browse through the bodies of the report to get a sense of how issues were framed by the authoring committees and the kinds of evidence and analysis considered.
 
@@ -571,21 +571,21 @@ Guest - Frank Field
 {{< tdopen >}}
 
 
-Kaplan, Carl S. "{{% resource_link "69134833-e199-4b3d-bad6-a7f0582f12bc" "Kafkaesque? Big Brother? Finding the Right Literary Metaphor for Net Privacy" %}}." _The New York Times_, February 2, 2001.
+Kaplan, Carl S. "[Kafkaesque? Big Brother? Finding the Right Literary Metaphor for Net Privacy](http://www.nytimes.com/2001/02/02/technology/02CYBERLAW.html?ex=1163221200&en=da461ba527e7cbdd&ei=5070)." _The New York Times_, February 2, 2001.
 
-Liptak, Adam. "{{% resource_link "c3a11642-620e-489a-aacf-ca4b561b547f" "Expunged Criminal Records Live to Tell Tales" %}}." _The New York Times_, October 17, 2006.
+Liptak, Adam. "[Expunged Criminal Records Live to Tell Tales](http://www.nytimes.com/2006/10/17/us/17expunge.html?ex=1318737600&en=1acf439e647cce96&ei=5090&partner=rssuserland&emc=rss)." _The New York Times_, October 17, 2006.
 
-Black, Jason, Kieran Downes, Frank Field, Aleksandra Mozdzanowska, and Katherine Steel. "{{% resource_link "1f43df23-e291-4f56-8801-c0677041331f" "The Metaphors of Emerging Technologies: Unpacking the disconnects between the 'what' and the 'how' in the world of 'online shopping'" %}}." Conference paper preprint, 9th International Conference on Technology Policy and Innovation, Santorini, Greece, June 2006.
+Black, Jason, Kieran Downes, Frank Field, Aleksandra Mozdzanowska, and Katherine Steel. "[The Metaphors of Emerging Technologies: Unpacking the disconnects between the 'what' and the 'how' in the world of 'online shopping'](http://hdl.handle.net/1721.1/33003)." Conference paper preprint, 9th International Conference on Technology Policy and Innovation, Santorini, Greece, June 2006.
 
 ### Supplements
 
-Turow, Joseph. "{{% resource_link "1f4d8812-58c1-479e-bbee-347cbfdfcdb5" "Have They Got A Deal For You: It's Suspiciously Cozy in the Cybermarket" %}}." _The Washington Post_, June 19, 2005, p. B01.
+Turow, Joseph. "[Have They Got A Deal For You: It's Suspiciously Cozy in the Cybermarket](http://www.washingtonpost.com/wp-dyn/content/article/2005/06/18/AR2005061800070.html)." _The Washington Post_, June 19, 2005, p. B01.
 
-———. "Americans and Online Privacy: The System Is Broken." Annenberg Public Policy Center, University of Pennsylvania, June 2003. ({{% resource_link "b4b951a7-f869-45ba-b917-7bab3ce12936" "PDF - 1.6MB" %}})
+———. "Americans and Online Privacy: The System Is Broken." Annenberg Public Policy Center, University of Pennsylvania, June 2003. ([PDF - 1.6MB](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1411&context=asc_papers))
 
-O'Harrow, Robert, Jr. "{{% resource_link "351d5aaf-3ae2-4467-852e-739cb49c7c64" "In Age of Security, Firm Mines Wealth Of Personal Data" %}}." _The Washington Post_, January 20, 2005, p. A01. (Off-topic, but it may be of interest; O'Harrow's award-winning series of articles and supporting information is hosted at the _Washington Post's_ site: "{{% resource_link "db58fa35-2e11-4603-8c90-87b9c2c18ee2" "The High Price of Homeland Security" %}}").
+O'Harrow, Robert, Jr. "[In Age of Security, Firm Mines Wealth Of Personal Data](http://www.washingtonpost.com/wp-dyn/articles/A22269-2005Jan19.html)." _The Washington Post_, January 20, 2005, p. A01. (Off-topic, but it may be of interest; O'Harrow's award-winning series of articles and supporting information is hosted at the _Washington Post's_ site: "[The High Price of Homeland Security](http://www.washingtonpost.com/wp-dyn/content/linkset/2005/05/20/LI2005052001091.html)").
 
-Turow, Joseph, Lauren Feldman, and Kimberly Meltzer. "Open To Exploitation: American Shoppers Online and Offline." Annenberg Public Policy Center, University of Pennsylvania, June 2005. ({{% resource_link "695b6db1-0a59-4c64-8aae-a6378991b648" "PDF - 2.6 MB" %}})
+Turow, Joseph, Lauren Feldman, and Kimberly Meltzer. "Open To Exploitation: American Shoppers Online and Offline." Annenberg Public Policy Center, University of Pennsylvania, June 2005. ([PDF - 2.6 MB](http://www.annenbergpublicpolicycenter.org/Downloads/Media_and_Developing_Child/Conference_on_Child_Media/200006_Conference_on_Child_Media_report.pdf))
 
 
 {{< tdclose >}}
