@@ -7,10 +7,10 @@ title: Related Resources
 uid: 7fd1d6be-67e0-3630-9175-a4e379fed095
 ---
 
-{{% resource_link "1318e5ef-afcc-4436-8e85-d197b1668483" "MIT Online Writing and Communication Center" %}}
+[MIT Online Writing and Communication Center](http://web.mit.edu/writing/)
 
-{{% resource_link "18564ad9-9173-46b3-ad32-b7d6a3eac504" "NASA's Columbia Site" %}}
+[NASA's Columbia Site](http://www.nasa.gov/columbia/home/index.html)
 
-Tips on Creating {{% resource_link "92719002-e11f-4ab7-93ed-873546f582aa" "Annotated Bibliographies" %}}
+Tips on Creating [Annotated Bibliographies](http://library.ucf.edu/Rosen/guide_annotated.asp)
 
-{{% resource_link "b2dd2c86-415f-40d5-968e-3234e47bb0ed" "_Rising Above the Gathering Storm_" %}}. National Academies Press, 2006.
+[_Rising Above the Gathering Storm_](http://www.nap.edu/catalog/11463.html). National Academies Press, 2006.
